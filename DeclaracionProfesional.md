@@ -1,0 +1,3 @@
+# Declaración Profesional - Iván Numpaque
+
+"Como **desarrollador de software en formación con una sólida base técnica y una pasión inherente por la resolución de problemas**, me estoy especializando en ciberseguridad a través del **Certificado profesional de Google**. Mi compromiso es aplicar mi **lógica de desarrollo y mi profundo interés en la integridad y protección de los sistemas** para identificar vulnerabilidades, analizar amenazas y fortalecer la postura de seguridad de una organización. Aspiro a un rol de **Analista de Ciberseguridad** que me permita utilizar mis habilidades para **salvaguardar los activos digitales y asegurar la continuidad operativa**, contribuyendo así directamente a los objetivos de seguridad de la empresa."
