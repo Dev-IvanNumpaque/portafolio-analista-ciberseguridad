@@ -14,17 +14,15 @@ Puedes encontrar mi declaración profesional completa, donde detallo mis puntos 
 
 ## 💻 **Habilidades Clave Adquiridas y en Desarrollo**
 
-Aquí puedes enumerar las habilidades y herramientas que estás aprendiendo o ya dominas, enfocándote en los fundamentos que ya estás cubriendo en el curso y conectándolos con tu background de desarrollo.
-
 * **Fundamentos de Ciberseguridad:** Tríada CID, gestión de riesgos, tipos de amenazas comunes, controles de seguridad.
 * **Conceptos de Redes:** TCP/IP, DNS, modelos de referencia de red (OSI/TCP-IP).
 * **Sistemas Operativos:** Familiaridad básica con entornos Windows y Linux.
 * **Cumplimiento y Marcos de Seguridad:** Conocimiento de frameworks como NIST CSF y principios de protección de PII/SPII.
 * **Ética de la Seguridad:** Comprensión de la importancia de la ética profesional y la privacidad en ciberseguridad.
 * **Habilidades de Investigación:** Capacidad para investigar y comprender conceptos de seguridad.
-* **Desarrollo de Software:** (Menciona los lenguajes que conoces, ej: Python, Java, JavaScript, C++, etc.)
+* **Desarrollo de Software:** (Python, Java, JavaScript, C#, NodeJs.).
 * **Lógica de Programación y Resolución de Problemas:** Fundamental para el análisis de seguridad.
-* **Comprensión de la Seguridad en Aplicaciones:** (Si has aprendido algo sobre OWASP Top 10, etc., puedes mencionarlo a medida que avances).
+* **Comprensión de la Seguridad en Aplicaciones:** (OWASP Top 10, etc.).
 
 ## 🚀 **Proyectos Destacados**
 
@@ -33,7 +31,6 @@ Actualmente, me encuentro en las etapas iniciales de mi formación en cibersegur
 ## 🎓 **Certificaciones**
 
 * **Certificado de Carrera en Ciberseguridad de Google** (En progreso)
-* [Otras certificaciones relevantes, si las tienes en el futuro]
 
 ## ✉️ **Contacto**
 
